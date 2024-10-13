@@ -1,12 +1,11 @@
-# cl-html
+# cl-html5-query-selector
 
-This is a project to do ... something.
+This query selector is built on top of the [cl-html5-parser](https://github.com/rotatef/cl-html5-parser).
 
-## License
+The main purpose for this project is to help writing tests.
 
-Specify license here
+# license
 
+Unlicense.
 
-Copyright (c) 2024 Bruno Dias
-
-
+See [license](https://github.com/cl-sdk/cl-html5-query-selector/blob/development/license).
